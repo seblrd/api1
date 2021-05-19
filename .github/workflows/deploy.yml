@@ -16,7 +16,7 @@ jobs:
       with:
         host: 62.241.126.32
         username: pi
-        key: ${{ secrets.SECRET2 }}
+        key: ${{ secrets.SECRET }}
         port: 22
         script: |
           cd  work/api1
