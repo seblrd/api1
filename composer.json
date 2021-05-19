@@ -7,5 +7,6 @@
         }
     ],
     "require": {},
-    "license": "proprietary"
+    "license": "proprietary",
+    "description": "api for my website"
 }
