@@ -1,2 +1,2 @@
-<?php 
-echo "You are in API1 index"
+<?php
+echo "You are in API1 index";
