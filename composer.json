@@ -1,0 +1,10 @@
+{
+    "name": "sebas/api1",
+    "authors": [
+        {
+            "name": "Sebastien Lerda",
+            "email": "sebastien.lerda3d@gmail.com"
+        }
+    ],
+    "require": {}
+}
