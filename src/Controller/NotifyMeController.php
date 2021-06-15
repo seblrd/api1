@@ -21,7 +21,7 @@ class NotifyMeController extends AbstractController
      */
     public function notifyMe()
     {
-        dd("ok");
-        return $this->render("base.html.twig");
+
+        return new Response("La response à marché");//$this->render("base.html.twig");
     }
 }
